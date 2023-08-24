@@ -1,2 +1,1 @@
-# physical-unit-rs
-physical quantity unit
+# ultra-unit-rs
